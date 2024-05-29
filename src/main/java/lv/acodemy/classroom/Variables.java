@@ -107,7 +107,21 @@ public class Variables {
 
         int remainderResult = 5 % 3;
         System.out.println(remainderResult);
+
+
+        //Operators ( Simple example)
+        int x = 10;
+        int y = 20;
+        int result = x + y;
+
+        int a = 30;
+        int b = 40;
+        int anotherResult = a - b;
         
+
+        int c = 10 + 20;
+        int d = 40
+
 
     }
 }
