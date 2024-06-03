@@ -120,7 +120,8 @@ public class Variables {
         
 
         int c = 10 + 20;
-        int d = 40
+        int d = 40;
+
 
 
     }
